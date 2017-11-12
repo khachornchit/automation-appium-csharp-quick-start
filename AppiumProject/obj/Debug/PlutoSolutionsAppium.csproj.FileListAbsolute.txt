@@ -1,0 +1,15 @@
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\PlutoSolutionsAppium.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\PlutoSolutionsAppium.pdb
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\appium-dotnet-driver.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\Castle.Core.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\WebDriver.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\WebDriver.Support.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\appium-dotnet-driver.xml
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\Castle.Core.xml
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\WebDriver.xml
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\bin\Debug\WebDriver.Support.xml
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\obj\Debug\PlutoSolutionsAppium.csprojResolveAssemblyReference.cache
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\obj\Debug\PlutoSolutionsAppium.dll
+D:\OneDrive\PlutoSolutionsDevelopment\PlutoSolutionsAppium\PlutoSolutionsAppium\obj\Debug\PlutoSolutionsAppium.pdb
